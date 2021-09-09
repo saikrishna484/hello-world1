@@ -13,7 +13,7 @@ System.out.println(k*k);
 }
 }
 public static void main(String[] args){
-PrintTablesnSquares PrintTables1nSquares1= new PrintTablesnSquares():
+PrintTablesnSquares PrintTables1nSquares1= new PrintTablesnSquares();
 PrintTables1nSquares1.printTable(5);
 PrintTables1nSquares1.printSquare(5);
 }
