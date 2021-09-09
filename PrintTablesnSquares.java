@@ -7,7 +7,7 @@ System.out.printf(" %d * %d = %d", j , i , j*i).println();
 System.out.println("\n");
 }
 }
-void printSquare(number){
+void printSquare(int number){
 for(int k=1;k<=number;k++){
 System.out.println(k*k);
 }
